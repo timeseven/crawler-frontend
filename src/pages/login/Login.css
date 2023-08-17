@@ -1,0 +1,18 @@
+.login-page {
+  width: 300px;
+  padding: 20px 20px 0 20px;
+  margin: 100px auto;
+  border: 1px solid #ccc;
+}
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
